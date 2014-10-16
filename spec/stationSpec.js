@@ -9,11 +9,7 @@ describe('Station', function() {
 		expect(station.trains).toEqual([])
 	});
 
-	it('should allow trains to dock', function() {
-		expect(station.dock(train)).toEqual(train)
-	});
-
-	 it('should know how many trains it has', function () {
+	it('should know how many trains it has', function () {
     expect(station.trains.length).toEqual(0)
     station.dock(train)
     expect(station.trains.length).toEqual(1)
