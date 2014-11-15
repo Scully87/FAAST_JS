@@ -1,4 +1,4 @@
-VAAST
+FAAST_JS
 ========
 ######This Project is still under Developement
 
