@@ -2,7 +2,8 @@ FAAST_JS
 ========
 ######This Project is still under Developement
 
-###A re-create of a previous project using JavaScript.
+####This is re-create of a previous project using JavaScript. The original specs for the project are below
+=========================================================
 
 #####Ruby Version 1 - [FAAST](https://github.com/scully87/FAAST) uses Chicago-style testing (dealing with instantiated objects throughout).
 
