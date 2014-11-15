@@ -3,12 +3,12 @@ FAAST_JS
 ######This Project is still under Developement
 
 ####This is re-create of a previous project using JavaScript. The original specs for the project are below
-=========================================================
+---------------------------------------------------------
 
 #####Ruby Version 1 - [FAAST](https://github.com/scully87/FAAST) uses Chicago-style testing (dealing with instantiated objects throughout).
 
 #####Ruby Version 2 of [FAAST](https://github.com/scully87/FAAST) which uses London-style testing (dealing doubles/mocks throughout).
-======================================================================
+----------------------------------------------------------g
 
 ###Develop a program for the new VAAST tube system (Fast and Accessible Super Tube). This is our Week 1 weekend challenge at [Makers Academy](https://www.makersacademy.com)
 
